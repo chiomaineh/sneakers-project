@@ -3,7 +3,7 @@
 This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview 
-This is a front-end mentor challenge that reqiures me to buils an e-commerce product page with a lightbox gallry snad add to cart / remove from cart functionalities. 
+This is a front-end mentor challenge that reqiures me to build an e-commerce product page with a lightbox gallery and add to cart / remove from cart functionalities. 
 Users can:
 
 - View the optimal layout for the site depending on their device's screen size
